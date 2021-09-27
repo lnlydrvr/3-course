@@ -1,10 +1,13 @@
+cd #enter your file's path
+
 git add .
 
-echo 'Enter the commit message:'
-read commitMessage
+echo 'Updating...'
 
-git commit -m "$commitMessage"
+git commit -q -m "updated `date +'%m/%d/%Y'`"
 
-git push origin master
+git push -q origin master
+
+echo 'All done!'
 
 exit
