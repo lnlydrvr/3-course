@@ -4,7 +4,7 @@ git add .
 
 echo 'Updating...'
 
-git commit -q -m "updated `date +'%m/%d/%Y'`"
+git commit -m "updated `date +'%m/%d/%Y'`"
 
 git push -q origin master
 
