@@ -8,6 +8,6 @@ git add --all
 
 git commit -m "Обновлено `date`"
 
-git push
+git push -q
 
 echo 'Лекции обновлены'
