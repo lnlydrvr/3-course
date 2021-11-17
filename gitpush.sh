@@ -1,6 +1,6 @@
 echo 'Загружаю лекции...'
 
-cd C:\Users\lonel\Documents\Академия\3-course\
+cd C:\Users\lonel\Documents\Академия\3-course
 
 git init
 
@@ -10,6 +10,6 @@ git add --all
 
 git commit -m "Обновлено `date`"
 
-git push -q
+git push
 
 echo 'Лекции обновлены'
