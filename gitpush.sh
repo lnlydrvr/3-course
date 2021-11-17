@@ -1,5 +1,3 @@
-cd C:\Users\lonel\Documents\Академия\3-course
-
 git add .
 
 echo 'Загружаю лекции...'
