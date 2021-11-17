@@ -8,4 +8,3 @@ git push -q origin master
 
 echo 'Лекции обновлены'
 
-exit
