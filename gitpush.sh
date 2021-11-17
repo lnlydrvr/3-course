@@ -1,7 +1,5 @@
 echo 'Загружаю лекции...'
 
-cd C:\Users\lonel\Documents\Академия\3-course
-
 git init
 
 git pull
